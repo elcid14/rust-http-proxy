@@ -1,0 +1,12 @@
+##Project description##
+
+
+#A simple rust program that will inspect an inbound HTTP Request, cache the Ip Address and other metadata of requests. 
+
+#The program will include an allow list for Ip Addresses. 
+
+#If the IP address is allowed server will respond with 200
+
+#If the IP address is not allowed server will respond with 500
+
+
